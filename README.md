@@ -1087,7 +1087,7 @@ mobile/src/
 
 <div align="center">
 
-<img src="team_noventrix.png" alt="Team Noventrix" width="480"/>
+<img src="logo.png" alt="Team Noventrix" width="480"/>
 
 <br/>
 
