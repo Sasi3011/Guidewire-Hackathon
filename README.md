@@ -10,6 +10,17 @@
 ```
 
 ### 🛡️ *AI-Powered Parametric Income Insurance for India's Food Delivery Partners*
+---
+
+## 🚨 Judge Note: Market Crash Update
+
+> ⚠️ In response to the final 24-hour adversarial scenario (GPS spoofing fraud via coordinated groups),  
+> we have **proactively strengthened our architecture**.
+
+
+👉 See **[🚨 Adversarial Defense & Anti-Spoofing Strategy](#-adversarial-defense--anti-spoofing-strategy)** for full details.
+
+---
 
 [![Phase](https://img.shields.io/badge/🚀_Phase-1_Ideation_%26_Foundation-FF6B35?style=for-the-badge)](.)
 [![Hackathon](https://img.shields.io/badge/🏆_Guidewire-DEVTrails_2026-0066CC?style=for-the-badge)](.)
