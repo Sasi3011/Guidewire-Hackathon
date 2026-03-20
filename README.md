@@ -399,24 +399,7 @@ flowchart LR
     style E fill:#16A34A,color:#fff,stroke:#16A34A
 ```
 
----
 
-### 4. Retention Mechanics — The "Student Pause"
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   🎓  EXAM MODE  —  The Student Pause Feature                                 ║
-║                                                                               ║
-║   Toggle ON  →  Premiums paused for up to 4 weeks per year                    ║
-║   Cost       →  ₹0 during exam period                                         ║
-║   Preserved  →  Baseline data + loyalty discounts stay mathematically intact  ║
-║   Result     →  Zero churn. Riders stay in the ecosystem.                     ║
-║                                                                               ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## ⚡ Parametric Engine: Thresholds & Validation
 
