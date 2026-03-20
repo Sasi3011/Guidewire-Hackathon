@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Ravi",
+    "partnerId": "SWIGGY123",
+    "password": "$2a$10$lUf.5U5uf/srMgj/BRx8Ku2yNDlY0UXlBgnfFA0Bz52DWO9Z6zngW",
+    "city": "Chennai"
+  },
+  {
+    "id": 2,
+    "name": "Arun",
+    "partnerId": "ZOMATO456",
+    "phone": "9123456780",
+    "password": "$2a$10$ScU5QnmN3tCEHbrdP8gsDeOHtjunpn4q4B/4qb1MCrNEs9z3hO.oW",
+    "verified": true,
+    "city": "Tiruppur",
+    "state": "Tamil Nadu",
+    "upi": "sasikiran.tt3011@okhdfc"
+  },
+  {
+    "id": 3,
+    "name": "Arun",
+    "partnerId": "ZOMATO446",
+    "phone": "9123456880",
+    "password": "$2a$10$VY1xoOQPAzXR/j4ZxMWax.8iJtUg/V696yr7oYDdc9mEhMuR6jSje",
+    "verified": true,
+    "city": "Gomati",
+    "state": "Tripura",
+    "upi": "sasikiran.tt2011@okaxis"
+  },
+  {
+    "id": 4,
+    "name": "Arn",
+    "partnerId": "ZOMATO447",
+    "phone": "9123656880",
+    "password": "$2a$10$MLqFf4TegNXkKn5ZkV4cB.kzIrtxCSaHJ2jn7uIA8uNoKzHFC/e6e",
+    "verified": true,
+    "city": "South Garo Hills",
+    "state": "Meghalaya",
+    "upi": "sasikiran.tt3011@okaxi"
+  },
+  {
+    "id": 5,
+    "name": "Arrn",
+    "partnerId": "ZOMATO457",
+    "phone": "9123654880",
+    "password": "$2a$10$KS7fsgoepB49hHXkG.IshuNn0Nea.jw9jSYHqRvmPp3IEj45FcJIm",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name": "Arrn",
+    "partnerId": "ZOMATO455",
+    "phone": "9125365480",
+    "password": "$2a$10$vgtWm0lRmuR/AXz8Ljoe3uK9HLqslUP4n1hBfNuhc3HKYrB0Tfz/q",
+    "verified": true,
+    "city": "Coimbatore",
+    "state": "Tamilnadu",
+    "upi": "sasikiran3011@okaxis"
+  }
+]

@@ -1,0 +1,105 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62.5..125,100..900;1,62.5..125,100..900&display=swap');
+@config "../tailwind.config.js";
+
+@theme {
+  --color-primary-light: #60A5FA;
+  --color-primary-dark: #1E40AF;
+  --color-accent-soft: rgba(34, 211, 238, 0.1);
+  --font-archivo: "Archivo", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply antialiased bg-[#020617] text-slate-300;
+    font-family: var(--font-archivo);
+    font-variation-settings: "wdth" 112.5; 
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight text-white uppercase;
+    font-family: var(--font-archivo);
+    font-variation-settings: "wdth" 112.5;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/5 backdrop-blur-3xl border border-white/10 shadow-[0_8px_32px_0_rgba(0,0,0,0.37)];
+  }
+  
+  .glass-card {
+    @apply bg-slate-900/50 backdrop-blur-2xl border border-white/5 shadow-2xl transition-all duration-500 hover:border-white/20;
+  }
+  
+  .btn-primary {
+    @apply px-10 py-5 bg-blue-600 text-white font-black rounded-2xl hover:bg-blue-500 transition-all duration-500 shadow-[0_20px_50px_rgba(37,99,235,0.3)] flex items-center justify-center gap-2 hover:scale-[1.02] active:scale-[0.98] uppercase tracking-widest text-xs;
+  }
+  
+  .btn-secondary {
+    @apply px-10 py-5 bg-white/5 text-white font-black rounded-2xl border border-white/10 hover:bg-white/10 transition-all duration-500 flex items-center justify-center gap-2 hover:scale-[1.02] active:scale-[0.98] uppercase tracking-widest text-xs;
+  }
+}
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-cyan-400 to-indigo-500;
+}
+
+.mesh-gradient {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(at 0% 0%, hsla(225,39%,30%,1) 0, transparent 50%), 
+    radial-gradient(at 50% 0%, hsla(225,39%,20%,1) 0, transparent 50%), 
+    radial-gradient(at 100% 0%, hsla(242,100%,70%,1) 0, transparent 50%);
+  z-index: -1;
+  opacity: 0.4;
+}
+
+.glow {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, rgba(59, 130, 246, 0.15) 0%, transparent 70%);
+  filter: blur(100px);
+  z-index: -1;
+}
+
+.dot-pattern {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+.section-padding {
+  @apply py-32 lg:py-48;
+}
+
+.content-container {
+  @apply max-w-7xl mx-auto px-6 lg:px-8;
+}
+
+/* Animations */
+@keyframes float {
+  0% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(2deg); }
+  100% { transform: translateY(0px) rotate(0deg); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.noise-overlay {
+  position: fixed;
+  inset: -200%;
+  z-index: 9999;
+  pointer-events: none;
+  background-image: url("https://grainy-gradients.vercel.app/noise.svg");
+  opacity: 0.15;
+  mix-blend-mode: overlay;
+}
