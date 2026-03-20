@@ -858,13 +858,15 @@ flowchart TD
 ## 🎬 Prototype & Demo
 
 <div align="center">
-
+ 
+[![Live Prototype](https://img.shields.io/badge/🌐_Live_Prototype-Open_App-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://guidewire-hackathon-mu.vercel.app/)
 [![Video Demo](https://img.shields.io/badge/▶️_Demo_Video-Watch_Now-DC2626?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1O-0ZOaQBJ2niWPLzMELtgnt8TPcUgatV/view?usp=sharing)
-
+ 
 | Resource | Link |
 |:---------|:-----|
+| 🌐 Live Prototype | [Open on Vercel →](https://guidewire-hackathon-mu.vercel.app/) |
 | ▶️ Demo Video | [Watch on Google Drive →](https://drive.google.com/file/d/1O-0ZOaQBJ2niWPLzMELtgnt8TPcUgatV/view?usp=sharing) |
-
+ 
 </div>
 
 ---
