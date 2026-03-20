@@ -54,10 +54,10 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   🇮🇳  FOR INDIA'S 15M+ DELIVERY PARTNERS, "NO WORK" MEANS "NO PAY"        ║
+║   🇮🇳  FOR INDIA'S 15M+ DELIVERY PARTNERS, "NO WORK" MEANS "NO PAY"           ║
 ║                                                                              ║
 ║   📉  Income Volatility                                                      ║
-║       Extreme rain, heat, or AQI causes a 20–30% monthly earnings loss      ║
+║       Extreme rain, heat, or AQI causes a 20–30% monthly earnings loss       ║
 ║                                                                              ║
 ║   🕳️  The Insurance Gap                                                      ║
 ║       Existing plans cover accidents (Health/Life) but ignore the            ║
@@ -104,7 +104,7 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │
-│   🧩  THE "CAN'T vs. WON'T" PUZZLE                                          │
+│   🧩  THE "CAN'T vs. WON'T" PUZZLE                                           │
 │       AI must distinguish between:                                           │
 │       ├── 🌧️  A DISRUPTION  → Weather physically stopping work               │
 │       └── 📉  LOW DEMAND    → No orders available (not covered)              │
@@ -131,7 +131,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ⏳  1-Week Observation Period                                               ║
+║   ⏳  1-Week Observation Period                                              ║
 ║       Blocks opportunistic claims by analyzing a new user's genuine          ║
 ║       activity and route baselines for one week before unlocking coverage.   ║
 ║                                                                              ║
@@ -145,7 +145,7 @@
 ║       Track B → Flexible pay-as-you-go part-time riders                      ║
 ║                                                                              ║
 ║   🤖  Zero-Claim Automation                                                  ║
-║       Monitors environmental APIs (Rain / Heat >43°C / AQI >300)            ║
+║       Monitors environmental APIs (Rain / Heat >43°C / AQI >300)             ║
 ║       Auto-calculates income loss → instant direct UPI payout                ║
 ║                                                                              ║
 ║   📅  Sunday-to-Sunday Cash Flow                                             ║
@@ -195,7 +195,7 @@
 │                                                                              │
 │  THE DISRUPTION:                                                             │
 │  A violent 45-min storm hits during evening shift.                           │
-│  Rider trapped under bridge → misses an active order → ₹0 for that hour.    │
+│  Rider trapped under bridge → misses an active order → ₹0 for that hour.     │
 │                                                                              │
 │  THE REBOUND:                                                                │
 │  Storm clears → platform backlogged → stacked orders + surge pricing.        │
@@ -204,16 +204,16 @@
 │  GIGSHIELD MATH (Calculated at End of Shift)                                 │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  🕐  Shift Duration          :  5 Hours                                      │
+│  🕐  Shift Duration          :  5 Hours                                     │
 │  📊  Historical Average      :  ₹100 / hour                                 │
 │  🎯  Expected Baseline       :  ₹500                                        │
 │  ⛈️  Storm Window Earnings   :  ₹0   (45 mins lost)                         │
 │  💰  Total Actual Earnings   :  ₹650 (post-storm surge)                     │
 │                                                                              │
-│  ✅  CHECK: Actual (₹650) > Expected Baseline (₹500)                        │
+│  ✅  CHECK: Actual (₹650) > Expected Baseline (₹500)                         │
 │                                                                              │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  DECISION  →  Payout = ₹0                                                   │
+│  DECISION  →  Payout = ₹0                                                    │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -231,8 +231,8 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │
-│  THE HAZARD:   Delhi AQI crosses 450 (Severe+). Health advisory issued.     │
-│  THE BASELINE: Rider logs in for 4-hr shift. Expected income = ₹350.        │
+│  THE HAZARD:   Delhi AQI crosses 450 (Severe+). Health advisory issued.      │
+│  THE BASELINE: Rider logs in for 4-hr shift. Expected income = ₹350.         │
 │                                                                              │
 │  THE EXPLOIT ATTEMPT:                                                        │
 │  Rider stays "Online", completes exactly ONE order, then sits idle at a      │
@@ -245,11 +245,11 @@
 │  🎯  Expected Baseline     :  ₹350                                          │
 │  💰  Actual Earnings       :  ₹40                                           │
 │  📍  Telemetry Check       :  GPS = 0 km/h for 3+ hrs despite "Online"      │
-│  👥  Peer Triangulation    :  30+ riders in same zone actively moving        │
-│                               averaging 1.5 orders/hr                       │
+│  👥  Peer Triangulation    :  30+ riders in same zone actively moving       │
+│                               averaging 1.5 orders/hr                        │
 │                                                                              │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  DECISION  →  Payout = ₹0                                                   │
+│  DECISION  →  Payout = ₹0                                                    │
 │  FLAG      →  "Eligibility Failed: Insufficient route movement               │
 │               compared to active zone average."                              │
 └──────────────────────────────────────────────────────────────────────────────┘
@@ -278,10 +278,10 @@
 │      Rain triggers ORDER SURGE → Rider A earns DOUBLE his normal rate        │
 │      AI scans: 50+ peers moving at normal speeds ✅                          │
 │      Actual income EXCEEDS baseline                                          │
-│      DECISION  →  Payout = ₹0                                               │
+│      DECISION  →  Payout = ₹0                                                │
 │                                                                              │
-│  🔴  ZONE B — The Old Market (Low-lying, 5km Away)                           │
-│      Roads flood in 15 mins → severe gridlock → Rider B earns ₹0            │
+│  🔴  ZONE B — The Old Market (Low-lying, 5km Away)                          │
+│      Roads flood in 15 mins → severe gridlock → Rider B earns ₹0             │
 │      AI scans: 40+ peers with GPS speed dropped to < 2 km/h ❌              │
 │      Actual income has completely flatlined                                  │
 │      DECISION  →  Payout = ✅ APPROVED                                      │
@@ -405,14 +405,14 @@ flowchart LR
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   🎓  EXAM MODE  —  The Student Pause Feature                                ║
-║                                                                              ║
-║   Toggle ON  →  Premiums paused for up to 4 weeks per year                  ║
-║   Cost       →  ₹0 during exam period                                       ║
-║   Preserved  →  Baseline data + loyalty discounts stay mathematically intact ║
-║   Result     →  Zero churn. Riders stay in the ecosystem.                   ║
-║                                                                              ║
+║                                                                               ║
+║   🎓  EXAM MODE  —  The Student Pause Feature                                 ║
+║                                                                               ║
+║   Toggle ON  →  Premiums paused for up to 4 weeks per year                    ║
+║   Cost       →  ₹0 during exam period                                         ║
+║   Preserved  →  Baseline data + loyalty discounts stay mathematically intact  ║
+║   Result     →  Zero churn. Riders stay in the ecosystem.                     ║
+║                                                                               ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -441,7 +441,7 @@ flowchart LR
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   SIGNAL 1 — Platform Status                                                 ║
-║   Checks if Swiggy / Zomato paused or restricted services in affected zone  ║
+║   Checks if Swiggy / Zomato paused or restricted services in affected zone   ║
 ║                                                                              ║
 ║   SIGNAL 2 — Shift Matching                                                  ║
 ║   Cross-references event time against rider's 7-day historical active hours  ║
@@ -481,7 +481,7 @@ flowchart TD
 ║       Premiums recalculated every Sunday                                     ║
 ║       based on the upcoming 7-day forecast                                   ║
 ║                                                                              ║
-║   Premium_weekly = ( Base + ( Risk × Forecast ) ) − Loyalty                 ║
+║   Premium_weekly = ( Base + ( Risk × Forecast ) ) − Loyalty                  ║
 ║                                                                              ║
 ║   ⚡  The 24-Hour Bridge                                                     ║
 ║       Automated UPI payouts within 24 hours                                  ║
@@ -618,13 +618,13 @@ Formula : Peak_Opportunity_Score = GBM(IsolationForest(order_spikes), worker_fea
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  Criteria        Model          Metric        Value      Industry Benchmark  ║
+║  Criteria        Model          Metric        Value      Industry Benchmark   ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
 ║  🌧️ Weather Risk  LSTM           AUC-ROC       92%        ≥ 88%              ║
 ║  📦 Orders/Hour   XGBoost        R² Score      88%        ≥ 85%              ║
 ║  🕐 Active Time   DBSCAN + RF    F1-Score      89%        ≥ 87%              ║
 ║  💰 Earnings      Prophet        MAPE          7.2%       ≤ 8%               ║
-║  🚀 Speed         LightGBM       MAE           2.1 km/h   ≤ 3 km/h          ║
+║  🚀 Speed         LightGBM       MAE           2.1 km/h   ≤ 3 km/h           ║
 ║  ⚡ Peak Score    IF + GBM       Precision     90%        ≥ 85%              ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -660,16 +660,16 @@ flowchart LR
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║  🛰️  LAYER 1 — Geo-Shield & Device DNA                                      ║
-║      Blocks VPNs, GPS spoofing (impossible 5km/s jumps),                    ║
-║      and Device Farming via IMEI tracking                                   ║
+║  🛰️  LAYER 1 — Geo-Shield & Device DNA                                       ║
+║      Blocks VPNs, GPS spoofing (impossible 5km/s jumps),                     ║
+║      and Device Farming via IMEI tracking                                    ║
 ║                                                                              ║
 ║  ⏱️  LAYER 2 — Proof of Intent                                               ║
 ║      Mandates "Online / Searching" status BEFORE the disruption hits         ║
 ║      Prevents unearned weather bonuses                                       ║
 ║                                                                              ║
 ║  📊  LAYER 3 — Fleet Correlation                                             ║
-║      Flags riders claiming "total loss" if 95%+ of peers                    ║
+║      Flags riders claiming "total loss" if 95%+ of peers                     ║
 ║      in the same micro-zone are still successfully delivering                ║
 ║                                                                              ║
 ║  👻  LAYER 4 — Ghosting Filter                                               ║
@@ -841,12 +841,12 @@ flowchart TD
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  💎  WHY GIGSHIELD WINS                                                      ║
 ║                                                                              ║
-║  🚀  Zero-Claim Automation  →  No forms, no proof, no waiting               ║
+║  🚀  Zero-Claim Automation  →  No forms, no proof, no waiting                ║
 ║  ⚡  5-Min Monitoring        →  Hyper-local trigger every 5 minutes          ║
-║  🧠  10x Faster Settlement  →  Focused AI = faster decisions                ║
-║  🔀  Dual-Track Tiering     →  Full-Time & Part-Time — both covered         ║
-║  📅  Weekly Sync             →  Aligns with India's 7-day gig cycle         ║
-║  🛡️  Isolation Forest        →  ML fraud shield, not just rules             ║
+║  🧠  10x Faster Settlement  →  Focused AI = faster decisions                 ║
+║  🔀  Dual-Track Tiering     →  Full-Time & Part-Time — both covered          ║
+║  📅  Weekly Sync             →  Aligns with India's 7-day gig cycle          ║
+║  🛡️  Isolation Forest        →  ML fraud shield, not just rules              ║
 ║  📊  Elastic Pricing         →  Pay less in summer, protected in monsoon     ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -906,7 +906,7 @@ flowchart TD
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   India's 15M+ gig delivery partners lose 20–30% of their monthly income    ║
+║   India's 15M+ gig delivery partners lose 20–30% of their monthly income     ║
 ║   to climate disruptions — with zero safety net, zero insurance, and         ║
 ║   zero support from the platforms they power.                                ║
 ║                                                                              ║
@@ -960,7 +960,7 @@ flowchart TD
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║         Protecting the people who keep India fed                             ║
-║               — one delivery at a time. 🛵                                  ║
+║               — one delivery at a time. 🛵                                   ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
