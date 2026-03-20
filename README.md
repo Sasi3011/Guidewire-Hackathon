@@ -877,7 +877,6 @@ flowchart TD
 
 | Document | Link |
 |:---------|:-----|
-| 📁 Project Folder (Google Drive) | [Open Folder →](https://drive.google.com/drive/folders/1nPsMJABjXa6Gva2f6PHgcBTXhbyNSzlp?usp=sharing) |
 | 📄 Word Document (Proof of Work) | [View Document →](https://drive.google.com/drive/folders/1nPsMJABjXa6Gva2f6PHgcBTXhbyNSzlp?usp=sharing) |
 
 </div>
