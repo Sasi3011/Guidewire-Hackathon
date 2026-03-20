@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm install --prefix gigshield && npm run build --prefix gigshield",
+  "outputDirectory": "gigshield/dist",
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gigshield-root",
+  "private": true,
+  "scripts": {
+    "build": "npm install --prefix gigshield && npm run build --prefix gigshield"
+  }
+}
