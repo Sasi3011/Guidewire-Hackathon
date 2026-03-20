@@ -1,0 +1,252 @@
+[
+  {
+    "partner_id": "P001",
+    "name": "Arun Kumar",
+    "phone_no": "9876543210"
+  },
+  {
+    "partner_id": "P002",
+    "name": "Ravi Selvam",
+    "phone_no": "9123456780"
+  },
+  {
+    "partner_id": "P003",
+    "name": "Karthik Rao",
+    "phone_no": "9012345678"
+  },
+  {
+    "partner_id": "P004",
+    "name": "Suresh Mani",
+    "phone_no": "9988776655"
+  },
+  {
+    "partner_id": "P005",
+    "name": "Vijay Prakash",
+    "phone_no": "9876541122"
+  },
+  {
+    "partner_id": "P006",
+    "name": "Sanjay Menon",
+    "phone_no": "9876542233"
+  },
+  {
+    "partner_id": "P007",
+    "name": "Rahul Sharma",
+    "phone_no": "9876543344"
+  },
+  {
+    "partner_id": "P008",
+    "name": "Amit Patel",
+    "phone_no": "9876544455"
+  },
+  {
+    "partner_id": "P009",
+    "name": "Vikram Singh",
+    "phone_no": "9876545566"
+  },
+  {
+    "partner_id": "P010",
+    "name": "Nitin Desai",
+    "phone_no": "9876546677"
+  },
+  {
+    "partner_id": "P011",
+    "name": "Prakash Jha",
+    "phone_no": "9876547788"
+  },
+  {
+    "partner_id": "P012",
+    "name": "Ramesh Babu",
+    "phone_no": "9876548899"
+  },
+  {
+    "partner_id": "P013",
+    "name": "Rajesh Khanna",
+    "phone_no": "9876549900"
+  },
+  {
+    "partner_id": "P014",
+    "name": "Deepak Chahar",
+    "phone_no": "9876501122"
+  },
+  {
+    "partner_id": "P015",
+    "name": "Mohit Suri",
+    "phone_no": "9876502233"
+  },
+  {
+    "partner_id": "P016",
+    "name": "Anil Kapoor",
+    "phone_no": "9876503344"
+  },
+  {
+    "partner_id": "P017",
+    "name": "Sunil Shetty",
+    "phone_no": "9876504455"
+  },
+  {
+    "partner_id": "P018",
+    "name": "Ajay Devgn",
+    "phone_no": "9876505566"
+  },
+  {
+    "partner_id": "P019",
+    "name": "Pradeep Kumar",
+    "phone_no": "9876506677"
+  },
+  {
+    "partner_id": "P020",
+    "name": "Manoj Bajpayee",
+    "phone_no": "9876507788"
+  },
+  {
+    "partner_id": "P021",
+    "name": "Naveen Patnaik",
+    "phone_no": "9876508899"
+  },
+  {
+    "partner_id": "P022",
+    "name": "Kiran Reddy",
+    "phone_no": "9876509900"
+  },
+  {
+    "partner_id": "P023",
+    "name": "Tarun Gogoi",
+    "phone_no": "9876411122"
+  },
+  {
+    "partner_id": "P024",
+    "name": "Ashok Gehlot",
+    "phone_no": "9876412233"
+  },
+  {
+    "partner_id": "P025",
+    "name": "Gaurav Gupta",
+    "phone_no": "9876413344"
+  },
+  {
+    "partner_id": "P026",
+    "name": "Harish Rawat",
+    "phone_no": "9876414455"
+  },
+  {
+    "partner_id": "P027",
+    "name": "Vivek Oberoi",
+    "phone_no": "9876415566"
+  },
+  {
+    "partner_id": "P028",
+    "name": "Vishal Bhardwaj",
+    "phone_no": "9876416677"
+  },
+  {
+    "partner_id": "P029",
+    "name": "Yash Chopra",
+    "phone_no": "9876417788"
+  },
+  {
+    "partner_id": "P030",
+    "name": "Zakir Hussain",
+    "phone_no": "9876418899"
+  },
+  {
+    "partner_id": "P031",
+    "name": "Anand Mahindra",
+    "phone_no": "9876419900"
+  },
+  {
+    "partner_id": "P032",
+    "name": "Balu Mahendra",
+    "phone_no": "9876321122"
+  },
+  {
+    "partner_id": "P033",
+    "name": "Chetan Bhagat",
+    "phone_no": "9876322233"
+  },
+  {
+    "partner_id": "P034",
+    "name": "Dilip Kumar",
+    "phone_no": "9876323344"
+  },
+  {
+    "partner_id": "P035",
+    "name": "Eshwar Rao",
+    "phone_no": "9876324455"
+  },
+  {
+    "partner_id": "P036",
+    "name": "Farhan Akhtar",
+    "phone_no": "9876325566"
+  },
+  {
+    "partner_id": "P037",
+    "name": "Ganesh Acharya",
+    "phone_no": "9876326677"
+  },
+  {
+    "partner_id": "P038",
+    "name": "Hariharan Pillai",
+    "phone_no": "9876327788"
+  },
+  {
+    "partner_id": "P039",
+    "name": "Imtiaz Ali",
+    "phone_no": "9876328899"
+  },
+  {
+    "partner_id": "P040",
+    "name": "Javed Akhtar",
+    "phone_no": "9876329900"
+  },
+  {
+    "partner_id": "P041",
+    "name": "Kamal Haasan",
+    "phone_no": "9876231122"
+  },
+  {
+    "partner_id": "P042",
+    "name": "Lalit Modi",
+    "phone_no": "9876232233"
+  },
+  {
+    "partner_id": "P043",
+    "name": "Madhavan Iyer",
+    "phone_no": "9876233344"
+  },
+  {
+    "partner_id": "P044",
+    "name": "Nagarjuna Akkineni",
+    "phone_no": "9876234455"
+  },
+  {
+    "partner_id": "P045",
+    "name": "Om Puri",
+    "phone_no": "9876235566"
+  },
+  {
+    "partner_id": "P046",
+    "name": "Prabhu Deva",
+    "phone_no": "9876236677"
+  },
+  {
+    "partner_id": "P047",
+    "name": "Ranganathan Swamy",
+    "phone_no": "9876237788"
+  },
+  {
+    "partner_id": "P048",
+    "name": "Shankar Mahadevan",
+    "phone_no": "9876238899"
+  },
+  {
+    "partner_id": "P049",
+    "name": "Tushar Kapoor",
+    "phone_no": "9876239900"
+  },
+  {
+    "partner_id": "P050",
+    "name": "Uday Chopra",
+    "phone_no": "9876141122"
+  }
+]
