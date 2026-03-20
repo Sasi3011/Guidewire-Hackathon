@@ -1,0 +1,9 @@
+<svg width="220" height="80" viewBox="0 0 220 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Shield Icon -->
+    <rect x="10" y="10" width="60" height="60" rx="20" fill="#1000FF"/>
+    <path d="M40 25 L55 35 Q52 55 40 65 Q28 55 25 35 Z" fill="white"/>
+    <!-- Text -->
+    <text x="80" y="55" font-family="Poppins, Arial, sans-serif" font-size="36" font-weight="700" fill="#1000FF">GigShield</text>
+  </g>
+</svg>
